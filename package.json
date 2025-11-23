@@ -1,7 +1,7 @@
 {
-  "name": "https://discord.com/api/webhooks/1442046846598910033/kSS_tsYvksxliQEwI1wOIPsWybRq76tJbbMyZmdWjAP1VWDaCA4q6M_kHP726KsJ1Zdx",
+  "name": "minecraftsecuritybot",
   "version": "1.0.0",
-  "description": "minecraft bot for my base",
+  "description": "Minecraft security bot that monitors for unauthorized players",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
